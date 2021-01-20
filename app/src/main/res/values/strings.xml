@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DetectVoice</string>
+    <string name="tap_on_mic">Tap on Mic to speak</string>
+    <string name="listening">Listening...</string>
+    <string name="english">English :</string>
+    <string name="arabic">Arabic :</string>
+    <string name="german">German :</string>
+</resources>

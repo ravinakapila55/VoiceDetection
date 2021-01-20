@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947071857069",
+    "project_id": "voicedetection-50329",
+    "storage_bucket": "voicedetection-50329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947071857069:android:c18aceb5b1d88dd104f124",
+        "android_client_info": {
+          "package_name": "com.voicedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947071857069-fmpetld5pkli2mgtev5vnp8ehrahmj8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqgeRo9evzRZ0M9MGAN0JGvHLyw_9uh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947071857069-fmpetld5pkli2mgtev5vnp8ehrahmj8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
